@@ -8,7 +8,7 @@ Hi! I'm Erick you can call me EJ
  - **Framework:**</br>
  ![TF](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow) ![Unity](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=unity) ![Android](https://img.shields.io/badge/-Android%20Studio-black?style=flat-square&logo=androidstudio)
  - **Tools:**</br>
-   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+   ![Java](https://img.shields.io/badge/-Kali%20Linux-black?style=flat-square&logoColor=white&logo=kalilinux) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=github)  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
  - **Databases:**</br>
    ![MySQL](https://img.shields.io/badge/-mySQL-white?style=flat-square&logo=mysql) ![Firebase](https://img.shields.io/badge/-Firebase-red?style=flat-square&logo=firebase)
  - **Infrastructure:**</br>
@@ -18,3 +18,23 @@ Hi! I'm Erick you can call me EJ
  - **Monitoring:**</br>
    ![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus)   ![ELK](https://img.shields.io/badge/-ELK-black?style=flat-square&logo=elastic-stack)
 ---
+<body>
+  <div align="center">
+<img src="https://media.tenor.com/zufgmL_YFNoAAAAi/pepe-arknights.gif" align="right" width="200" height="200">
+  </div>
+<li>
+ <b>Name:</b>  EJ
+ </li>
+<li>
+<b>Loves:</b> Arknights
+</li>
+<li>
+<b>Gender:</b> He/Him/Male
+</li>
+<li>
+<b>Hobby:</b> Tech Stuff, Game Dev, App Dev, AI Stuff
+</li>
+<li>
+<b>Current Job:</b> Surveillance
+</li>
+</body>
